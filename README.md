@@ -17,3 +17,7 @@ This project is a simple React application that retrieves book details from the 
 - **React**: Frontend framework for building user interfaces.
 - **Axios**: For making API calls.
 - **CSS**: Styling the application for a modern and clean look
+
+## Sample UI
+
+![Screenshot 2025-01-15 150933](https://github.com/user-attachments/assets/a8706f26-e926-4e8e-b286-844e77045557)
