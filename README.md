@@ -20,4 +20,4 @@ This project is a simple React application that retrieves book details from the 
 
 ## Sample UI
 
-![Screenshot 2025-01-15 150933](https://github.com/user-attachments/assets/a8706f26-e926-4e8e-b286-844e77045557)
+![Screenshot 2025-01-15 151156](https://github.com/user-attachments/assets/1b71b90f-20cc-4566-a54f-ace605490a41)
